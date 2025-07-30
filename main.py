@@ -1,8 +1,8 @@
 def funcion1(x):
-    return x + 10
+    return x + 15
 
 def funcion2(x):
-    return x*3
+    return x*4
 
 print(funcion1(10))
 
